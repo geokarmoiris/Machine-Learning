@@ -16,6 +16,13 @@ lib-cov
 *.swp
 *~
 
+# od or editor folders
+.cache
+.project
+.settings
+.tmproj
+.idea
+
 # custom
 /target
 */target/
